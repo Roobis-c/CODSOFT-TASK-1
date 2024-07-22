@@ -1,7 +1,7 @@
 # The Part-Time Job Platform
 
 ## Overview
-Welcome to **The Part-Time Job Platform**, a project created for my part-time job internship at CODSOFT. This landing page serves as a demonstration of my web development skills and aims to connect young individuals with flexible part-time job opportunities.
+Welcome to **The Part-Time Job Platform**, a project created for Web Development internship at CODSOFT. This landing page serves as a demonstration of my web development skills and aims to connect young individuals with flexible part-time job opportunities.
 
 ## Features
 - **Responsive Design**: Ensures optimal viewing experience across various devices, from desktops to mobile phones.
