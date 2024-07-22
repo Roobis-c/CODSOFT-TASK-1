@@ -1,5 +1,4 @@
-## The Part-Time Job Platform
-  hey there, I have successfully completed my Task-1 for web internship at CodSoft..
+# The Part-Time Job Platform
 
 ## Overview
 Welcome to **The Part-Time Job Platform**, a project created for my part-time job internship at CODSOFT. This landing page serves as a demonstration of my web development skills and aims to connect young individuals with flexible part-time job opportunities.
